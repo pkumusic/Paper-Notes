@@ -7,5 +7,5 @@
 * Wasserstein GAN [[arXiv'2017]](https://arxiv.org/abs/1701.07875)
 
 # Deep Reinforcement Learning
-* [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/) [[ICLR'2017]]
+* [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/DRL-Aux.md) [[ICLR'2017]](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 
