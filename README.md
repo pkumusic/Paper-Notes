@@ -10,4 +10,4 @@
 * [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/DRL-Aux.md) [[ICLR'2017]](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 
 # RNNs
-* [Visualizing and Understanding Recurrent Networks]()[[ICLR'2016]](https://arxiv.org/abs/1506.02078)
+* [Visualizing and Understanding Recurrent Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/VisRNN.md) [[ICLR'2016]](https://arxiv.org/abs/1506.02078)
