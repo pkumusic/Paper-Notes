@@ -1,7 +1,7 @@
-## Main points
-* Experiments on RNN, LSTM and GRU. Character-level language modeling
-* Several cells can be interpretable (remembering quota, brackets) while some are not.
+## My Idea: 
+* Most of the questions can be solved by string and word matching. Eager to know if there is reasoning working here.
 
-## Experiments
-* Datasets: War and Pease, Linux Kernel 
-* Baselines: n-grams， n-NN models
+## Main points
+* QA dataset contains 107,785 question-answering pairs on 536 articles. 
+* Based on Wikipedia, span-based answers. 
+
