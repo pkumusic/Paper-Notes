@@ -10,3 +10,6 @@
 
 # RNNs
 * [Visualizing and Understanding Recurrent Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/VisRNN.md) [[ICLR'2016]](https://arxiv.org/abs/1506.02078)
+
+# Question Answering
+* [SQuAD: 100,000+ Questions for Machine Comprehension of Text]() [EMNLP'16](https://arxiv.org/abs/1606.05250)
