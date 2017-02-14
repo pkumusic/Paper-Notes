@@ -9,7 +9,7 @@
 * [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/DRL-Aux.md) [[ICLR'2017]](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 
 # CNNs
-* [Conditional Image Generation with PixelCNN Decoders]() [[arXiv'2016]](https://arxiv.org/abs/1606.05328)
+* [Conditional Image Generation with PixelCNN Decoders](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/pixelRNN) [[arXiv'2016]](https://arxiv.org/abs/1606.05328)
 
 # RNNs
 * [Visualizing and Understanding Recurrent Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/VisRNN.md) [[ICLR'2016]](https://arxiv.org/abs/1506.02078)
