@@ -13,6 +13,7 @@
 
 # RNNs
 * [Visualizing and Understanding Recurrent Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/VisRNN.md) [[ICLR'2016]](https://arxiv.org/abs/1506.02078)
+* [Pixel Recurrent Neural Networks]() [[arXiv'2016]](https://arxiv.org/abs/1601.06759)
 
 # Question Answering
 * [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Squad.md) [[EMNLP'16]](https://arxiv.org/abs/1606.05250)
