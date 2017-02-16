@@ -16,4 +16,7 @@
 * [Pixel Recurrent Neural Networks](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/pixelRNN.md) [[ICML'2016]](https://arxiv.org/abs/1601.06759)
 
 # Question Answering
-* [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Squad.md) [[EMNLP'16]](https://arxiv.org/abs/1606.05250)
+* [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Squad.md) [[EMNLP'2016]](https://arxiv.org/abs/1606.05250)
+
+# Computer Vision
+* DeViSE: A Deep Visual-Semantic Embedding Model [[NIPS'2013]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model)
