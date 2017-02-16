@@ -19,4 +19,4 @@
 * [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Squad.md) [[EMNLP'2016]](https://arxiv.org/abs/1606.05250)
 
 # Computer Vision
-* DeViSE: A Deep Visual-Semantic Embedding Model [[NIPS'2013]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model)
+* [DeViSE: A Deep Visual-Semantic Embedding Model](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/DeViSE.md) [[NIPS'2013]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model)
