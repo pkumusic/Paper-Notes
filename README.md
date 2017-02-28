@@ -8,7 +8,7 @@
 # Deep Reinforcement Learning
 * [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/DRL-Aux.md) [[ICLR'2017]](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/)
 * Playing Doom with SLAM-Augmented Deep Reinforcement Learning [[arXiv'2016]](https://arxiv.org/abs/1612.00380)
-* [Unifying Count-Based Exploration and Intrinsic Motivation] [[ICLR'2017]](https://arxiv.org/abs/1606.01868)
+* [Unifying Count-Based Exploration and Intrinsic Motivation](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/CountBased.md) [[ICLR'2017]](https://arxiv.org/abs/1606.01868)
 
 # CNNs
 * [Conditional Image Generation with PixelCNN Decoders] (https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Gated-pixelCNN.md), [[arXiv'2016]](https://arxiv.org/abs/1606.05328)
