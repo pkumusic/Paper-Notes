@@ -25,4 +25,4 @@ Notes of papers related to deep learning, reinforcement learning, computer visio
 
 # Computer Vision
 * [DeViSE: A Deep Visual-Semantic Embedding Model](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/DeViSE.md) [[NIPS'2013]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model)
-* [Deep Convolutional Inverse Graphics Network] () [[NIPS'2015]](https://arxiv.org/abs/1503.03167)
+* [Deep Convolutional Inverse Graphics Network] (https://github.com/pkumusic/Paper-Notes/blob/master/reviews/DC-IGN.md) [[NIPS'2015]](https://arxiv.org/abs/1503.03167)
