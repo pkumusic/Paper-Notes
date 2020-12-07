@@ -29,4 +29,4 @@ Notes of papers related to deep learning, reinforcement learning, computer visio
 * [Baby Talk: Understanding and Generating Image Descriptions](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Babytalk.md)[[CVPR'11]](http://www.tamaraberg.com/papers/generation_cvpr11.pdf)
 
 # Machine Translation
-* [Unsupervised Quality Estimation for Neural Machine Translation](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Unsupervised MTQP.md)[[20]](https://arxiv.org/pdf/2005.10608.pdf)
+* [Unsupervised Quality Estimation for Neural Machine Translation](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Unsupervised_MTQP.md)[[20]](https://arxiv.org/pdf/2005.10608.pdf)
