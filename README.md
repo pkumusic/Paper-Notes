@@ -4,6 +4,7 @@ Notes of papers related to deep learning, reinforcement learning, computer visio
 # Transformers
 
 * [Attention is all you need](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/transformer.md) [[NIPS'17]](https://arxiv.org/abs/1706.03762)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/bert.md) [[NAACL'19]](https://arxiv.org/abs/1810.04805)
 
 # GANs
 * [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/StackGAN.md) [[arXiv'2017]](https://arxiv.org/abs/1612.03242)
