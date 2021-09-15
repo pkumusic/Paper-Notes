@@ -1,6 +1,10 @@
 # Paper Notes
 Notes of papers related to deep learning, reinforcement learning, computer vision, natural language processing etc by Music Li.
 
+# Transformers
+
+* [Attention is all you need](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/transformer.md) [NIPS'17](https://arxiv.org/abs/1706.03762)
+
 # GANs
 * [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/StackGAN.md) [[arXiv'2017]](https://arxiv.org/abs/1612.03242)
 * [Generating Images from Captions with Attention](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/AlignDRAW.md) [[ICLR'2016]](https://arxiv.org/abs/1511.02793)
@@ -14,7 +18,7 @@ Notes of papers related to deep learning, reinforcement learning, computer visio
 * [Value Iteration Networks]() [[NIPS'16]](https://arxiv.org/abs/1602.02867)
 
 # CNNs
-* [Conditional Image Generation with PixelCNN Decoders] (https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Gated-pixelCNN.md), [[arXiv'2016]](https://arxiv.org/abs/1606.05328)
+* [Conditional Image Generation with PixelCNN Decoders](https://github.com/pkumusic/Paper-Notes/blob/master/reviews/Gated-pixelCNN.md), [[arXiv'2016]](https://arxiv.org/abs/1606.05328)
 
 # RNNs
 * [Visualizing and Understanding Recurrent Networks](https://github.com/pkumusic/Paper-Reviews/blob/master/reviews/VisRNN.md) [[ICLR'2016]](https://arxiv.org/abs/1506.02078)
